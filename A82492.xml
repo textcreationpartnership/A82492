@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An additional Act for burying in woollen</title>
+            <title>Public General Acts. 1680-1681. 32 Car.II.c.1-2 + Table</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82492</idno>
+            <idno type="STC">Wing E1168D</idno>
+            <idno type="STC">ESTC R231761</idno>
+            <idno type="EEBO-CITATION">99897484</idno>
+            <idno type="PROQUEST">99897484</idno>
+            <idno type="VID">133253</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82492)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133253)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2497:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An additional Act for burying in woollen</title>
+                  <title>Public General Acts. 1680-1681. 32 Car.II.c.1-2 + Table</title>
+                  <author>England and Wales.</author>
+                  <author>England and Wales. Public General Acts. 1680-1681. 32 Car.II.c.1.</author>
+                  <author>England and Wales. Public General Acts. 1680-1681. 32 Car.II.c.2.</author>
+                  <author>England and Wales. Public General Acts. 1680-1681. 32 Car.II. Table.</author>
+               </titleStmt>
+               <extent>11, [1]   </extent>
+               <publicationStmt>
+                  <publisher>printed by the assigns of John Bill, Thomas Newcomb, and Henry Hills, printers to the Kings most excellent Majesty,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes chapters 1-2 and a table of the Acts of 1680-1681. 32 Car.II.</note>
+                  <note>Title from caption title (p. 3).</note>
+                  <note>Imprint from title page, which reads: Anno Regni Caroli II. Regis Angliæ, Scotiæ, Franciæ &amp; Hiberniæ, tricesimo secundo. At the Parliament summoned to begin at Westminster, on the seventeenth day of October, 1679. ... and by several prorogations continued to the 21st day of October, 1680. ... And thence continued to the 10th of January next ensuing, on which day the following Acts passed the royal assent.</note>
+                  <note>At head of p. 3: Anno XXXII. Caroli II. Regis.</note>
+                  <note>Text in black letter.</note>
+                  <note>On leaf A2r, last word first line of text: Parlia-; first word of line below initial: other; last word of last full line of text: Coun-.</note>
+                  <note>Includes the table for the complete set of Acts of 1680-1681. 32 Car.II.</note>
+                  <note>Signatures: A-C² . Possibly issued separately and also as part of a set comprised of original and reprinted copies of the Public General Acts from 27 Charles II to 1 James II, the first act of which reads: Anno Regni Caroli II. Regis Angliæ, Scotiæ, Franciæ &amp; Hiberniæ, vicesimo septimo, at the Parliament begun at Westminster the eighth day of May, anno Dom. 1661. ... And there continued by several prorogations, to the thirteenth day of October 1675.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:133253:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 64 -->
+            <p>Anno Regni. CAROLI II. REGIS <hi>Angliae, Scotiae, Franciae &amp; Hiberniae,</hi> TRICESIMO SECUNDO.</p>
+            <p>At the <hi>Parliament</hi> Summoned to beign at <hi>Westmin<g ref="char:EOLhyphen"/>ſter</hi> on the Seventeenth day of <hi>October,</hi> 1679. in the One and thir<g ref="char:EOLhyphen"/>tieth year of our Sovereign Lord CHARLES the Second by the Grace of God of <hi>England, Scotland, France</hi> and <hi>Ireland</hi> King, De<g ref="char:EOLhyphen"/>fender of the Faith, <hi>&amp;c.</hi> and by ſeveral Prorogations continued to the 21ſt day of <hi>October,</hi> 1680. in the 32d year of His ſaid Maje<g ref="char:EOLhyphen"/>ſties Reign.</p>
+            <p>And thence continued to the 10th of <hi>January</hi> next enſuing, on which day the following Acts paſſed the Royal Aſſent.</p>
+            <figure>
+               <figDesc>royal blazon or coat of arms</figDesc>
+               <head>C R</head>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+               <q>DIEV ET MON DROIT</q>
+            </figure>
+            <p>
+               <hi>LONDON.</hi> Printed by the Aſſigns of <hi>John Bill,</hi> Deceas'd: And by <hi>Henry Hills,</hi> and <hi>Thomas Newcomb,</hi> Printers to the Kings moſt Excellent Majeſty. 1685.</p>
+            <p>Cum Privilegio.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:133253:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 65 -->
+            <pb n="3" facs="tcp:133253:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 65 -->
+            <head>Anno XXXII Caroli II. Regis.</head>
+            <head>An Additional Act for Burying in Woollen.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas in one Act of Parlia<g ref="char:EOLhyphen"/>ment Paſſed in the Thirti<g ref="char:EOLhyphen"/>eth year of His Majeſties Reign that now is, En<g ref="char:EOLhyphen"/>tituled, <hi>An Act for Burying in Woollen,</hi> it was amongſt other things, Enacted and Ordained, That the Affidavits which were to be made of any perſons being Interred in Woollen according to the directions in the faid Act, ſhould be made or taken before ſome one Iuſtice of the Peace or Maſter of Chancery, Ordinary or Extraordina<g ref="char:EOLhyphen"/>ry, Mayor, Bayliff, or other Chief Of<g ref="char:EOLhyphen"/>ficer of the City, County, Borough, Cor<g ref="char:EOLhyphen"/>poration or Market-Town in the Coun<g ref="char:EOLhyphen"/>ty
+<pb n="4" facs="tcp:133253:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 66 -->where the ſaid Party was Buried, who are thereby Authorized and Required to Adminiſter the ſaid Oath, and to Atteſt the ſame under their hands upon ſuch Affidavit <hi>gratis:</hi>
+            </p>
+            <p>And whereas by reaſon of the diſtance of the Habitations of the perſons before whom ſuch Affidavit is to be made, and other accidents, divers perſons who have had occaſion to make ſuch Affidavits, have beén neceſſitated to travel many miles for the making thereof, to their great loſs of time, and hindrance of their other affairs:</p>
+            <p>Be it therefore Enacted, and it is here<g ref="char:EOLhyphen"/>by Enacted by the Kings moſt Excellent Majeſty, by, and with the Advice and con<g ref="char:EOLhyphen"/>ſent of the Lords Spiritual and Tempo<g ref="char:EOLhyphen"/>ral, and Commons in this preſent Par<g ref="char:EOLhyphen"/>liament aſſembled, and by the Authority of the ſame, That from and after the Se<g ref="char:EOLhyphen"/>cond day of <hi>February,</hi> in the year of our Lord, One thouſand ſix hundred and eighty, (where no Iuſtice of the Peace ſhall reſide, or be to be found in any Pa<g ref="char:EOLhyphen"/>riſh where any Party ſhall be Interred) the ſaid Oaths or Affidavits may be Ad<g ref="char:EOLhyphen"/>miniſtred, not onely by any Iuſtice of the Peace, or Maſter of Chancery, Ordi<g ref="char:EOLhyphen"/>nary or Extraordinary, Mayor, Bailiff, or other Chief Officer of the City, County, Borough, Corporation, or Market-town, in the County where any Party was Buried; but alſo that the Parſons, Vi<g ref="char:EOLhyphen"/>cars,
+<pb n="5" facs="tcp:133253:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 66 -->and Curates, in every Pariſh or Chappel of Eaſe, within the County where any Party ſhall be Interred, (ex<g ref="char:EOLhyphen"/>cept ouery the Parſon, Vicar, and Cu<g ref="char:EOLhyphen"/>rate of the Pariſh or Chappel of Eaſe where the Party is Interred, concerning whoſe Interment in Woollen ſuch Affi<g ref="char:EOLhyphen"/>davit is to be made) be, and are hereby Authorized and Required to Adminiſter the ſaid Oaths or Affidavits, and to atteſt the ſame under their hands <hi>gratis;</hi> And that every ſuch Affidavit taken be<g ref="char:EOLhyphen"/>fore them; ſhall be of like force and effect, as if the ſame had beén taken and Admi<g ref="char:EOLhyphen"/>niſtred by the Perſons Authorized to Ad<g ref="char:EOLhyphen"/>miniſter the ſame by the Act aforeſaid.</p>
+         </div>
+         <div type="part">
+            <pb n="6" facs="tcp:133253:4" rendition="simple:additions"/>
+            <!-- PDF PAGE 67 -->
+            <head>Anno XXXII. Caroli II. Regis.</head>
+            <head>An Act Prohibiting the Importation of Cattel from <hi>Ireland.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas as Act of Parlia<g ref="char:EOLhyphen"/>ment was made in the Eighteénth year of the Reign of our Sovereign Lord the King that now is, Intituled, <hi>An Act a<g ref="char:EOLhyphen"/>gainſt Importing Cattel from <hi>Ireland,</hi> and other parts beyond the Seas, and Fiſh taken by Foreigners;</hi> which was to continue until the end of Seven years, and from thence to the end of the firſt Seſſion of the next Parliament, which is now expired:</p>
+            <p>And foraſmuch as by long experience the ſaid Law hath beén found to be very beneficial to this Kingdom, Be it En<g ref="char:EOLhyphen"/>acted by the Kings moſt Excellent Maje<g ref="char:EOLhyphen"/>ſty, by and with the advice and conſent of the Lords Spiritual and Temporal, and the Commons in this preſent Parliament aſſembled, and by the Authority of the ſame, That the ſaid Act, and every Clauſe, Article, and Thing therein con<g ref="char:EOLhyphen"/>tained, together with the Additions and Alterations herein after mentioned and expreſſed, ſhall from and after the Second day of <hi>February,</hi> which ſhall be in the year of our Lord God, One thouſand ſix hun<g ref="char:EOLhyphen"/>dred
+<pb n="7" facs="tcp:133253:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 67 -->and eighty, be revived, continue, and remain, and is hereby revived and conti<g ref="char:EOLhyphen"/>nued in force, to all intents, conſtructions, and purpoſes for ever.</p>
+            <p>And be it further Enacted by the Au<g ref="char:EOLhyphen"/>thority aforeſaid, That not onely the Conſtables, Off<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cers, and Inhabitants mentioned in the aforeſaid recited Act, but any and every other perſon and perſons whatſoever, ſhall, and may take and Seize, in any place or places whatſoever, the Cattel and Goods Imported contra<g ref="char:EOLhyphen"/>ry to the ſaid recited Act; and that all and every ſuch perſon and perſons that ſhall Seize as aforeſaid, ſhall from time to time have the benefit and advantage hereafter g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ven by this Act to any Seizor or Sei<g ref="char:EOLhyphen"/>zors whatſoever.</p>
+            <p>And to prevent all fraudulent Seizures, Sales and Compoſit ous, to be made by any perſon or perſons whatſoever, in any Pariſh or Place whatſoever, where any great Cattel, Sheép, or Swine ſhall be Imported or found contrary to this, or the Act aforeſaid, and to make the Prohi<g ref="char:EOLhyphen"/>bitions therein more effectual;</p>
+            <p>Be it Enacted by the Authority afore<g ref="char:EOLhyphen"/>ſaid, That all and every the reſpective Seizor or Se<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>zors of ſuch Cattel, Sheép, or Swine, ſhall within ſix days after con<g ref="char:EOLhyphen"/>v<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ction and forfeiture thereof, cauſe the ſaid Cattel, Sheép, and Swine to be kil<g ref="char:EOLhyphen"/>led, and the Hides and Tallow of ſuch great Cattel, Sheép, and Swine, ſhall be and remain to the uſe of the ſaid Seizor or Seizors, and the remainder of the ſaid great Cattel, Sheép and Swine, ſhall be
+<pb n="8" facs="tcp:133253:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 68 -->forthwith diſtributed amongſt the Poor of the ſaid Pariſh, by the Church wardens and Overſeérs of the Poor there, or ſome of them, upon notice thereof to be given them, or any of them, by ſuch Seizor or Seizors as aforeſaid; Any thing in the ſaid former Law, or any other Law to the contrary notwithſtanding.</p>
+            <p>And be it further Enacted, That in caſe the ſaid Seizor or Seizors, or the Church-wardens and Overſeérs of the Poor, ſhall fail in their reſpective Duties, in the Exe<g ref="char:EOLhyphen"/>cution of this Act, They and every of them reſpectivly, ſhall forfeit the ſum of Fourty ſhillings for every one of the great Cattel, and Ten ſhillings for every ſheép or Swine, which ſhould have beén Rilled and Diſtributed as aforeſaid, one moiety thereof to the Poor of the ſaid Pariſh, and the other moiety to the Informer: The ſame to be Levyed by Diſtreſs and Sale of the Goods and Chattels of the perſon or perſons ſo offending, by Warrant un<g ref="char:EOLhyphen"/>der the Hand and Seal of any Iuſtice of the Peace of the ſaid County or Place where the ſaid Offence ſhall be committed, upon confeſſion of the Party, view of the ſaid Iuſtice, or Oath thereof made before ſuch Iuſtice by one or more credible Wit<g ref="char:EOLhyphen"/>neſs or Witneſſes, other then the Infor<g ref="char:EOLhyphen"/>mer: Which Oath the ſaid Iuſtice hath hereby power to Adminiſter, rendring the Overplus to the Owners thereof, neceſ<g ref="char:EOLhyphen"/>ſary Charges of Diſtraining being firſt deducted. And for want of ſuch Diſtreſs, the ſaid Offender or Offenders to be com<g ref="char:EOLhyphen"/>mitted to the common Goal of the ſaid
+<pb n="9" facs="tcp:133253:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 68 -->County or Place, there to remain for the ſpace of Threé months without Bail or Mainprize.</p>
+            <p>Provided always, and be it further Enacted by the Authority aforeſaid, That neither this Act, nor any other Act what<g ref="char:EOLhyphen"/>ſoever hereafter made, ſhall either hinder or be conſtrued to extend to hinder the Im<g ref="char:EOLhyphen"/>portation of Stock-fiſh or live Eels into this Kingdom of <hi>England,</hi> but that it ſhall and may be lawful to and for all and every perſon and perſons whatſoever to Import into this Kingdom of <hi>England</hi> any Stock-fiſh or live Eels as aforeſaid; Any thing in this Act, or any other Law, Statute, Vſage or Cuſtom to the contra<g ref="char:EOLhyphen"/>ry in any wiſe notwithſtanding.</p>
+            <p>And whereas the preſent Laws do not ſufficiently provide againſt the Importa<g ref="char:EOLhyphen"/>tion of Mutton and Lamb out of <hi>Ireland,</hi> and other parts beyond the Seas into this Kingdom, but that great quantities thereof are daily Imported and Sold, to the great loſs and prejudice of this King<g ref="char:EOLhyphen"/>dom, Be it therefore Enacted by the Au<g ref="char:EOLhyphen"/>thority aforeſaid, That from and after the ſaid Second day of <hi>February,</hi> no Mutton or Lamb ſhall be Imported into this King<g ref="char:EOLhyphen"/>dom from the Kingdom of <hi>Ireland,</hi> or any foreign parts; And all Mutton or Lamb Imported from <hi>Ireland,</hi> or beyond the Seas, or that ſhall be expoſed to Sale within this Kingdom, ſhall be ſubject to the like Seizures, and the Importers and Sellers thereof reſpectively to the like penalties as are provided or appointed in any former Law againſt any Importer
+<pb n="10" facs="tcp:133253:6" rendition="simple:additions"/>
+               <!-- PDF PAGE 69 -->or Seller, or Importation of any Beéf, Pork or Bacon, from the Kingdom of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> or any Foreign parts; Any thing in this or any former Law or Statute to the contrary notwithſtanding.</p>
+            <p>And whereas the preſent Laws do not ſufficiently provide againſt the Importa<g ref="char:EOLhyphen"/>tion of Butter and Cheéſe out of <hi>Ireland</hi> into this Kingdom, but that great quan<g ref="char:EOLhyphen"/>tities thereof are daily Imported and Sold, to the great loſs and prejudice of this Kingdom, Be it therefore Enacted by the Authority aforeſaid, That from and after the ſaid Second day of <hi>February,</hi> no But<g ref="char:EOLhyphen"/>ter or Cheéſe ſhall be Imported into this Kingdom from the Kingdom of <hi>Ireland:</hi> And all Butter and Cheéſe Imported from <hi>Ireland,</hi> or that ſhall be expoſed to Sale within this Kingdom, ſhall be ſub<g ref="char:EOLhyphen"/>ject to the like Seizures, and the Im<g ref="char:EOLhyphen"/>porters or Sellers thereof reſpectively to the like Penalties as are provided or ap<g ref="char:EOLhyphen"/>pointed in any former Law againſt any Importer or Seller, or Importation of any Beéf, Bacon or Pork from the King<g ref="char:EOLhyphen"/>dom of <hi>Ireland,</hi> or any Foreign parts; Any thing in this or any former Law or Sta<g ref="char:EOLhyphen"/>tute to the contrary notwithſtanding.</p>
+            <p>And for the more effectual Execution of this and the aforeſaid Act, Be it further Enacted by the Authority aforeſaid, That if any great Cattel, Sheép or Swine ſhall be once or oftner Seized in purſuance of this or the aforeſaid Act, and afterwards either by permiſſion, connivance, negli<g ref="char:EOLhyphen"/>gence or otherwiſe ſhall be removed into and found alive in any Pariſh or Place
+<pb n="11" facs="tcp:133253:6" rendition="simple:additions"/>
+               <!-- PDF PAGE 69 -->within the Kingdom of <hi>England,</hi> Domi<g ref="char:EOLhyphen"/>nion of <hi>Wales,</hi> or Town of <hi>Berwick</hi> upon <hi>Tweed,</hi> other then ſuch Pariſh or Place wherein they ſhall have beén reſpectively Seized, That then the ſaid Cattel, Sheép and Swine, ſhall be liable to like Seizure, and the Seizor and Poor of the Pariſh or Place have like benefit and advantage, and the Cattel, Sheép and Swine be for<g ref="char:EOLhyphen"/>feited, and the Proof be incumbent upon the Owner, as if ſuch Cattel had never before beén Seized.</p>
+            <p>And whereas divers perſons on pur<g ref="char:EOLhyphen"/>poſe to diſcourage others from making Seizure of <hi>Iriſh</hi> Cattel, have intermixed ſome few <hi>Engliſh</hi> or other Cattel in Droves of <hi>Iriſh</hi> Cattel, and ſo created many vexa<g ref="char:EOLhyphen"/>tious and chargeable Suits againſt thoſe that have Seized <hi>Iriſh</hi> Cattel in purſuance of the aforeſaid Act, Be it further Enacted by the Authority aforeſaid, That if any <hi>Engliſh</hi> or other Cattel driven or inter<g ref="char:EOLhyphen"/>mixed with <hi>Iriſh</hi> Cattel ſhall be Seized to<g ref="char:EOLhyphen"/>gether with them, ſuch Cattel ſo inter<g ref="char:EOLhyphen"/>mixed and Seized, ſhall be deémed <hi>Iriſh</hi> Cattel, and ſhall be ſubject to like for<g ref="char:EOLhyphen"/>feiture, and be ordered and diſpoſed of in all reſpects as if they were <hi>Iriſh</hi> Cattel, and Imported contrary to this and the aforeſaid Act.</p>
+            <p>Provided that nothing in this Act ſhall be conſtrued to extend to the Forfeiture or Seizing any Cattel that are or ſhall be in <hi>England</hi> before the ſaid Second day of <hi>Fe<g ref="char:EOLhyphen"/>bruary.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:133253:7" rendition="simple:additions"/>
+            <!-- PDF PAGE 70 -->
+            <head>ACTS Paſſed on the Tenth day of <hi>January,</hi> 1680/1. in the Two and thirtieth year of the Reign of our moſt Gracious Sovereign Lord, <hi>CHARLES</hi> the Second.</head>
+            <list>
+               <item>
+                  <list>
+                     <head>Publick Acts.</head>
+                     <item>1. AN Additional Act for Burying in Woollen. <hi>p.</hi> 3.</item>
+                     <item>2. An Act Prohibiting the Importation of Cattel from Ireland. <hi>p.</hi> 6.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Private Act.</head>
+                     <item>AN Act for Rectifying ſeveral Er<g ref="char:EOLhyphen"/>rours and Miſtakes in the Mar<g ref="char:EOLhyphen"/>riage-ſettlement of Sir <hi>Charles Hoghton</hi> Baronet.</item>
+                  </list>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
